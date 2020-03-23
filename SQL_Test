@@ -1,0 +1,2 @@
+SELECT a.[Article], t.[Tag]
+FROM Articles a LEFT OUTER JOIN Tags t ON a.Id = t.ArticleId  
