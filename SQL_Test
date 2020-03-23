@@ -1,2 +1,2 @@
 SELECT a.[Article], t.[Tag]
-FROM Articles a LEFT OUTER JOIN Tags t ON a.Id = t.ArticleId  
+FROM Articles a LEFT OUTER JOIN Tags t ON a.Id = t.ArticleId // где t.ArticleId является ForeignKey из таблицы Tags
