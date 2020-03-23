@@ -1,0 +1,14 @@
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\bin\Debug\netcoreapp3.1\TestForMindbox.exe
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\bin\Debug\netcoreapp3.1\TestForMindbox.deps.json
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\bin\Debug\netcoreapp3.1\TestForMindbox.runtimeconfig.json
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\bin\Debug\netcoreapp3.1\TestForMindbox.runtimeconfig.dev.json
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\bin\Debug\netcoreapp3.1\TestForMindbox.dll
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\bin\Debug\netcoreapp3.1\TestForMindbox.pdb
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\bin\Debug\netcoreapp3.1\AreaForm.dll
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\bin\Debug\netcoreapp3.1\AreaForm.pdb
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\obj\Debug\netcoreapp3.1\TestForMindbox.csprojAssemblyReference.cache
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\obj\Debug\netcoreapp3.1\TestForMindbox.AssemblyInfoInputs.cache
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\obj\Debug\netcoreapp3.1\TestForMindbox.AssemblyInfo.cs
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\obj\Debug\netcoreapp3.1\TestForMindbox.csproj.CopyComplete
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\obj\Debug\netcoreapp3.1\TestForMindbox.dll
+C:\Users\defar\OneDrive\Рабочий стол\mindbox\TestForMindbox\obj\Debug\netcoreapp3.1\TestForMindbox.pdb
